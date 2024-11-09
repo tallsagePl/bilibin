@@ -1,0 +1,13 @@
+{
+  "name": "bilbinAi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tallsagePl/bilibin",
+  "author": "tallsage",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "replicate": "^1.0.1"
+  }
+}
